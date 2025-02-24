@@ -112,7 +112,7 @@ Contributions are welcome! Feel free to submit **issues** or **pull requests**.
 ## **Author**  
 
 👤 **Your Name**  
-🔗 GitHub: [Your GitHub Profile](https://github.com/your-username)  
+🔗 GitHub: https://github.com/lalithanjaliaruna123 (lalithanjaliaruna123)
 
 ---
 
