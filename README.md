@@ -67,8 +67,7 @@ pip install -r requirements.txt
 ### **3️⃣ Run the Flask Server**  
 ```sh
 python app.py
-```
-The server will start at **http://127.0.0.1:5000/**.  
+``
 
 ---
 
