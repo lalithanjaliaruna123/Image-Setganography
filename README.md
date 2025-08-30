@@ -74,7 +74,7 @@ python app.py
 ## **Usage**  
 
 ### **1️⃣ Open the Web Interface**  
-Navigate to `http://127.0.0.1:5000/` in your browser.  
+Navigate to `http:` in your browser.  
 
 ### **2️⃣ Encode a Message**  
 1. Upload an image.  
